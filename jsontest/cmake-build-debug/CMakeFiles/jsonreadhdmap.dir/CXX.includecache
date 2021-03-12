@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ubuntu/CLionProjects/json/jsontest/src/readhdmap.cpp
+jsoncpp/json/json.h
+-
+iostream
+-
+fstream
+-
+string
+-
+

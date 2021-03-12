@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ubuntu/CLionProjects/json/jsontest/src/read.cpp
+jsoncpp/json/json.h
+-
+iostream
+-
+fstream
+-
+string
+-
+iostream
+-
+jsoncpp/json/json.h
+/home/ubuntu/CLionProjects/json/jsontest/src/jsoncpp/json/json.h
+stdio.h
+-
+string
+-
+memory
+-
+fstream
+-
+

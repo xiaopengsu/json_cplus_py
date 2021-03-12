@@ -1,0 +1,7 @@
+/home/ubuntu/CLionProjects/json/jsontest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/CLionProjects/json/jsontest/cmake-build-debug/CMakeFiles/jsonread.dir
+/home/ubuntu/CLionProjects/json/jsontest/cmake-build-debug/CMakeFiles/jsontest.dir
+/home/ubuntu/CLionProjects/json/jsontest/cmake-build-debug/CMakeFiles/jsonwrite.dir
+/home/ubuntu/CLionProjects/json/jsontest/cmake-build-debug/CMakeFiles/jsonshow.dir
+/home/ubuntu/CLionProjects/json/jsontest/cmake-build-debug/CMakeFiles/jsonreadhdmap.dir
+/home/ubuntu/CLionProjects/json/jsontest/cmake-build-debug/CMakeFiles/edit_cache.dir

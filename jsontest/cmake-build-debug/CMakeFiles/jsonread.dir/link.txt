@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/jsonread.dir/src/read.cpp.o CMakeFiles/jsonread.dir/lib_json/json_reader.cpp.o CMakeFiles/jsonread.dir/lib_json/json_value.cpp.o CMakeFiles/jsonread.dir/lib_json/json_writer.cpp.o  -o jsonread 
